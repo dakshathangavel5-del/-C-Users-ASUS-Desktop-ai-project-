@@ -1,0 +1,6 @@
+# AI-Powered Lost and Found Matcher Dependencies
+# CIT AI-Native Engineering Programme - Semester 1 - Assessment 5
+
+PySide6>=6.5.0
+requests>=2.31.0
+python-dotenv>=1.0.0
